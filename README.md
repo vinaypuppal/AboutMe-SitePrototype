@@ -9,20 +9,17 @@ Hi, I'm VinayPuppal. I focus on creating interactive websites that empower real 
 
 ## Tech Stack Used
 
-* [GatsbyJs](https://gatsbyjs.org): Blazing-fast static site generator for React
-* [emotion](https://emotion.sh/): The Next Generation of CSS-in-JS
-* Deployed to [Netlify](https://netlify.com)
-
-## More Details
-
-> Read this blog post https://www.vinaypuppal.com/blog/rebuilding-my-website-with-gatsbyjs/
+- [NextJs](https://nextjs.org): Blazing-fast React Framework
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for
+  rapidly building custom designs.
+- Deployed to [Cloudflare Workers](https://workers.cloudflare.com/)
 
 ## Credits
 
-* To all maintainers of open source packages used in this project
-* Icons
-  * https://www.flaticon.com/
-  * https://gorangajic.github.io/react-icons/fa.html
+- To all maintainers of open source packages used in this project
+- Icons
+  - https://www.flaticon.com/
+  - https://gorangajic.github.io/react-icons/fa.html
 
 ## License
 
